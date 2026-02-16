@@ -5,7 +5,7 @@ For Further information we have [ReadTheDocs](https://lasair-lsst.readthedocs.io
 
 ## How to use these examples?
 
-There are two kinds of resources covering the same themes:
+There are several kinds of resources covering the same themes:
 * **Notebooks**, which are detailed step-by-step jupyter notebooks explaining how the code and data work. 
 * **Scripts**: which are self-contained and well commented code examples that can be copy-pasted directly.  
 * **Features**: notebooks which explain exactly what is happening in the computation of the light-curve and other features in the Lasair schema
