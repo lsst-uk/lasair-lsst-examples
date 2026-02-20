@@ -4,18 +4,36 @@
 
 <h1 align="center">  Lasair LSST Tutorials </h1>
 
----
 
 This repository is dedicated to a suite of tutorials to help you get started with using Lasair to accept the LSST Alert data. 
 For Further information we have [ReadTheDocs](https://lasair-lsst.readthedocs.io/en/main/) pages, and their relevant subsections will be sign posted where relevant in these tutorials 
 
+
 ## How to use these examples?
 
-There are two kinds of resources covering the same themes:
-* **Notebooks**, which are detailed step-by-step jupyter notebooks explaining how the code and data work. 
-* **Scripts**: which are self-contained and well commented code examples that can be copy-pasted directly.  
+There are two kinds of resources:
+* **Notebooks**: detailed step-by-step jupyter notebooks explaining how the code and data work. 
+* **Scripts**: self-contained and well commented code templates that can be copy-pasted directly.  
 
 Generally speaking the notebooks will have more explanations because they allow for more verbose descriptions. 
+
+## Pre-requisites
+
+1. Install `lasair` python client
+
+```
+pip3 install lasair
+```
+
+2. A Valid Token (only for API / Kafka does not require a token)
+
+You'll need to [register](https://lasair-lsst.lsst.ac.uk/register) to the Lasair platform so you can find your personal token on your [Profile](https://lasair-lsst.lsst.ac.uk/profile) page. 
+
+**DO NOT SHARE THIS TOKEN WITH ANYOME**
+
+## Have Any Suggestions? 
+
+Feel free to fork this repository to propose changes, or open an issue to make a request. 
 
 ## How to get help?
 
