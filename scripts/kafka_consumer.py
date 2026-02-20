@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Kafka Consumer Scrit Template
+Kafka Consumer Script Template
 
 Requires:
 - lasair 
