@@ -1,4 +1,9 @@
-# Lasair Tutorials
+<p align="center">
+<img src="img/lasair.png" alt="drawing" width="50"/>
+<h1 align="center">  Lasair LSST Tutorials </h1>
+</p>
+
+---
 
 This repository is dedicated to a suite of tutorials to help you get started with using Lasair to accept the LSST Alert data. 
 For Further information we have [ReadTheDocs](https://lasair-lsst.readthedocs.io/en/main/) pages, and their relevant subsections will be sign posted where relevant in these tutorials 
