@@ -19,5 +19,9 @@ Generally speaking the notebooks will have more explanations because they allow 
 
 ## How to get help?
 
-[ask the team]
+If you have a question or need any help, you can find past questions or as a new one on the **[Community Forum](https://community.lsst.org/c/support/support-lasair/55)**.
+
+
+![communityforum](img/community_forum.png)
+
 
