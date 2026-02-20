@@ -1,7 +1,8 @@
 <p align="center">
-<img src="img/lasair.png" alt="drawing" width="50"/>
-<h1 align="center">  Lasair LSST Tutorials </h1>
+<img src="img/lasair.png" alt="lasair" width="50"/>
 </p>
+
+<h1 align="center">  Lasair LSST Tutorials </h1>
 
 ---
 
