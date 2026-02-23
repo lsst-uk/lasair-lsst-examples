@@ -17,6 +17,9 @@ There are two kinds of resources:
 
 Generally speaking the notebooks will have more explanations because they allow for more verbose descriptions. 
 
+### Note: Work in Progress
+These docs will be completed over the next few weeks to include more details and port some of the code from the [old notebooks](https://github.com/lsst-uk/lasair-examples/tree/main). Eventually the old repo will only contain the Lasair ZTF examples and this repo will focus on LSST.
+
 ## Pre-requisites
 
 1. Install `lasair` python client
